@@ -14,7 +14,6 @@ The game includes colored output, score tracking, and multiple rounds.
 
 
 ## 🛠 Technologies Used
-
 - Python
 - Random module
 - Colorama library
