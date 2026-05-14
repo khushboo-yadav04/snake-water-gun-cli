@@ -18,7 +18,6 @@ The game includes colored output, score tracking, and multiple rounds.
 - Random module
 - Colorama library
 
-
 ## 🎮 How to Play
 
 1. Run the Python file:
